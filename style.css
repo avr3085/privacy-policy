@@ -1,4 +1,4 @@
-```css
+```css id="5tzxv3"
 * {
   margin: 0;
   padding: 0;
@@ -105,6 +105,24 @@ body {
 .card li {
   margin-bottom: 10px;
   color: #cbd5e1;
+}
+
+.contact-info {
+  margin-top: 20px;
+}
+
+.contact-info p {
+  margin-bottom: 18px;
+}
+
+.contact-info a {
+  color: #60a5fa;
+  text-decoration: none;
+  word-break: break-word;
+}
+
+.contact-info a:hover {
+  text-decoration: underline;
 }
 
 .email-btn {
